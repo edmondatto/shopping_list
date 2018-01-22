@@ -13,6 +13,11 @@ body {
     margin-bottom: 20px;
 }
 
+.edit-item-input {
+    font-family: 'Quicksand', sans-serif;
+    font-size: x-large;
+}
+
 #item-list-header {
     padding-top: 3.5%;
     font-weight: bold;
@@ -25,6 +30,11 @@ body {
 
 .delete-button {
     margin-left: 5px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: large;
+}
+
+.save-button {
     font-family: 'Quicksand', sans-serif;
     font-size: large;
 }

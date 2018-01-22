@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React from 'react';
 
 export const Header = () => (
   <nav className="navbar navbar-inverse bg-primary">
